@@ -1,3 +1,7 @@
+> 🧩 This Sanity Studio is part of **NovaProject**, the full stack behind [thenovadetailing.ca](https://www.thenovadetailing.ca).  
+> High-level overview: https://github.com/liamkeats/NovaProjectMeta
+
+
 # 🧩 Nova Studio – Sanity CMS for Nova Detailing
 
 Content studio for **[thenovadetailing.ca](https://www.thenovadetailing.ca)**.  
